@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kread</string>
+    <string name="action_new_session">New Session</string>
+    <string name="action_keyboard">Keyboard</string>
+    <string name="action_about">About</string>
+    <string name="terminal_service_notification_title">Kread Terminal</string>
+    <string name="terminal_service_notification_text">Terminal session is running</string>
+</resources>

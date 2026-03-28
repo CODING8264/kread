@@ -1,0 +1,2 @@
+rootProject.name = "kread"
+include ':app'
